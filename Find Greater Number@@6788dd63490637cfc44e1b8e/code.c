@@ -9,7 +9,7 @@ int main() {
     } else {
         max = num3;
     }
-    printf("the greatest number is:%d\n",max);
+    printf("the greatest number is: %d\n",max);
 
     return 0;
 }
