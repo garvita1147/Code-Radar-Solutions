@@ -10,7 +10,7 @@
     if (num1 >= num2) {
         max = num1;
     }
-     else {
+    else {
         max = num2;
     }
     printf("The greatest number is: %d\n", max);
