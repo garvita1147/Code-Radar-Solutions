@@ -2,12 +2,12 @@
    #include <stdio.h>
 
     int main() {
-    int a = 5;
-    int b = 10;
-    if(a>=b)
-        printf(the greatest number is: %d\n,a);
+    int num1, num2;
+
+    if(num1>=num2)
+        printf(the greatest number is: %d\n,num1);
     else
-        printf(the greatest number is: %d\n,b);
+        printf(the greatest number is: %d\n,num2);
     
     return 0;
 }
