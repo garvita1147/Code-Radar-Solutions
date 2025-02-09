@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int a;
+    int a = 4;
     printf("enter a number:");
     scanf("%d", &a);
     if(a % 2 == 0){
