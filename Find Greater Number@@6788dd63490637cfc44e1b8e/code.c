@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-   int num1,num2;
+    int num1,num2;
     printf("enter the numbers:");
     scanf("%d %d", &num1, &num2);
     
@@ -9,7 +9,7 @@ int main(){
     }else if (num2 > num1){
         printf("%d is greater\n",num2);
     }else {
-        printf("bothe the numbers are equal\n");
+        printf("both the numbers are equal\n");
     }
 
 
